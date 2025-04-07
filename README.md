@@ -1,7 +1,7 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil da Camila Damasceno ✨
 
  <div>
-   <a href="https://github.com/Devemdobro">
+   <a href="https://github.com/CamilaDamasceno-commit">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
